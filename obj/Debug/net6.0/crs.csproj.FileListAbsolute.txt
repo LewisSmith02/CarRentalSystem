@@ -1,0 +1,15 @@
+C:\UniversityWork\year2\systems-programming\assessment\CarRentalSystem\bin\Debug\net6.0\crs.exe
+C:\UniversityWork\year2\systems-programming\assessment\CarRentalSystem\bin\Debug\net6.0\crs.deps.json
+C:\UniversityWork\year2\systems-programming\assessment\CarRentalSystem\bin\Debug\net6.0\crs.runtimeconfig.json
+C:\UniversityWork\year2\systems-programming\assessment\CarRentalSystem\bin\Debug\net6.0\crs.dll
+C:\UniversityWork\year2\systems-programming\assessment\CarRentalSystem\bin\Debug\net6.0\ref\crs.dll
+C:\UniversityWork\year2\systems-programming\assessment\CarRentalSystem\bin\Debug\net6.0\crs.pdb
+C:\UniversityWork\year2\systems-programming\assessment\CarRentalSystem\obj\Debug\net6.0\crs.csproj.AssemblyReference.cache
+C:\UniversityWork\year2\systems-programming\assessment\CarRentalSystem\obj\Debug\net6.0\crs.GeneratedMSBuildEditorConfig.editorconfig
+C:\UniversityWork\year2\systems-programming\assessment\CarRentalSystem\obj\Debug\net6.0\crs.AssemblyInfoInputs.cache
+C:\UniversityWork\year2\systems-programming\assessment\CarRentalSystem\obj\Debug\net6.0\crs.AssemblyInfo.cs
+C:\UniversityWork\year2\systems-programming\assessment\CarRentalSystem\obj\Debug\net6.0\crs.csproj.CoreCompileInputs.cache
+C:\UniversityWork\year2\systems-programming\assessment\CarRentalSystem\obj\Debug\net6.0\crs.dll
+C:\UniversityWork\year2\systems-programming\assessment\CarRentalSystem\obj\Debug\net6.0\ref\crs.dll
+C:\UniversityWork\year2\systems-programming\assessment\CarRentalSystem\obj\Debug\net6.0\crs.pdb
+C:\UniversityWork\year2\systems-programming\assessment\CarRentalSystem\obj\Debug\net6.0\crs.genruntimeconfig.cache
